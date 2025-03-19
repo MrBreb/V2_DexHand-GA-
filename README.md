@@ -22,6 +22,6 @@ This is a private repository and is currently accessible only to designated NVID
 - Any modifications or improvements be shared back.
 
 ## Contact and feedback
-For any questions or discussions regarding DexHand v2, please reach out to: Rob Knight - rob.knight@therobotstuio.com
+For any questions or discussions regarding DexHand v2, please reach out to: Rob Knight - rob.knight@therobotstudio.com
 
 Thank you for your collaboration and interest in DexHand v2!
